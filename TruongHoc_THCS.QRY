@@ -1,0 +1,7 @@
+Fields {MaTH,TenTH, DiaChiTH}
+Tables {TruongHoc}
+Where {LoaiTH = "THCS"}
+Group {}
+Order {}
+Into {Selection1}
+Browse

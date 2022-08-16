@@ -1,0 +1,23 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    MaTH Integer Index 1 ;
+    TenTH Char (40) ;
+    LoaiTH Char (10) ;
+    DiaChiTH Char (100) ;
+    ToaDo_X Decimal (10, 5) ;
+    ToaDo_Y Decimal (10, 5) ;
+ReadOnly
+begin_metadata
+"\Legend" = ""
+"\Legend\Title" = "TruongHoc Legend"
+"\Legend\Subtitle" = ""
+"\Legend\Column" = "object"
+"\Legend\StylesFrom" = "MapStyles"
+"\Legend\Label" = ""
+"\IsReadOnly" = "FALSE"
+end_metadata

@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "baoloc_c_48_12_d .jpg"
+  Type "RASTER"
+  (801000,1373000) (67,3868) Label "Pt 1",
+  (817000,1373000) (3861,3886) Label "Pt 2",
+  (817000,1389000) (3873,100) Label "Pt 3",
+  (801000,1389000) (80,81) Label "Pt 4"
+  CoordSys Earth Projection 8, 104, "m", 105, 0, 0.9996, 500000, 0
+  Units "m"

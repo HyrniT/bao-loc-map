@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    MaSVD Integer ;
+    TenSVD Char (40) ;
+    DiaChiSVD Char (100) ;
+    DienTich Float ;
+    ToaDo_X Decimal (10, 5) ;
+    ToaDo_Y Decimal (10, 5) ;

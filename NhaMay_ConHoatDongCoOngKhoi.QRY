@@ -1,0 +1,7 @@
+Fields {Count(*) }
+Tables {NhaMay}
+Where {TinhTrang="T" and CoOngKhoi="T"}
+Group {}
+Order {}
+Into {Selection1}
+Browse

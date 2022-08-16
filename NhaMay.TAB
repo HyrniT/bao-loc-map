@@ -1,0 +1,15 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 8
+    MaNM Integer Index 1 ;
+    TenNM Char (40) ;
+    SanXuat Char (40) ;
+    DiaChiNM Char (100) ;
+    TinhTrang Logical ;
+    CoOngKhoi Logical ;
+    ToaDo_X Decimal (10, 5) ;
+    ToaDo_Y Decimal (10, 5) ;

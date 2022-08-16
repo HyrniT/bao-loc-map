@@ -1,0 +1,7 @@
+Fields {TenNM, ToaDo_X, ToaDo_Y}
+Tables {NhaMay}
+Where {TinhTrang = "F"}
+Group {}
+Order {}
+Into {Selection1}
+Browse
